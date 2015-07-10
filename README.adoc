@@ -1,0 +1,5 @@
+= derpdogs
+
+The repo got wiped, so here's a new one.
+
+The wiki is https://github.com/ASIFRP/derpdogs/wiki/(here.)
